@@ -47,29 +47,37 @@ Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğre
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/MertCinbar/PhishAware">🛡️ PhishAware</a></h3>
-      <p align="center"><b>Otonom Oltalama Simülasyonu & Güvenlik Farkındalık Platformu</b></p>
-      <p>Kurum içi siber farkındalık tatbikatlarını departman bazlı senaryolarla otomatize eden, gerçekçi oltalama vektörleri ve analitik raporlama sunan tam kapsamlı platform.</p>
+      <h3 align="center"><a href="https://github.com/MertCinbar/SentinelCore">🛡️ SentinelCore</a></h3>
+      <p align="center"><b>Otonom Ağ Trafiği & Saldırı Tespit Sistemi (IDS / SOC)</b></p>
+      <p>Cisco Packet Tracer teorisini canlı ağda çalıştıran; ham TCP/IP paketlerini ayrıştırıp SYN Flood, Port Taraması ve anomalileri WebSockets ile canlı kokpitte tespit eden IDS.</p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>Raw Sockets</code> • <code>WebSockets</code> • <code>Packet Tracer</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/MertCinbar/PhishAware">🎯 PhishAware</a></h3>
+      <p align="center"><b>Otonom Oltalama Simülasyonu & Güvenlik Platformu</b></p>
+      <p>Kurum içi siber farkındalık tatbikatlarını departman bazlı senaryolarla otomatize eden, gerçekçi oltalama vektörleri ve analitik raporlama sunan tam kapsamlı B2B SaaS.</p>
       <p><code>FastAPI</code> • <code>Python</code> • <code>SQLite</code> • <code>TailwindCSS</code> • <code>Chart.js</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/MertCinbar/Market_Proje">🛒 Market_Proje</a></h3>
       <p align="center"><b>N-Katmanlı Mimari ile Süpermarket Otomasyonu</b></p>
       <p>Kasiyer, Müşteri ve Yönetici rollerini ayıran, stok/satış/kasa akışlarını N-Tier ve OOP prensipleri (Interface, Inheritance, Polymorphism) ile yöneten kurumsal masaüstü çözümü.</p>
       <p><code>C#</code> • <code>.NET WinForms</code> • <code>OOP</code> • <code>N-Tier</code> • <code>ClassLib</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/MertCinbar/C-Proje">☕ C-Proje (Kafe Otomasyonu)</a></h3>
       <p align="center"><b>Modüler C ile Masa & Adisyon Yönetim Sistemi</b></p>
       <p>Dinamik adisyon oluşturma, masa aktarma, sipariş revizyonu ve kasa kapanış hesaplamalarını saf C dili ve modüler dosya yapısıyla çözen terminal tabanlı POS yazılımı.</p>
       <p><code>C</code> • <code>Modular Programming</code> • <code>POS Management</code> • <code>CLI</code></p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <h3 align="center"><a href="https://github.com/MertCinbar/WebUygulama">🛍️ WebUygulama</a></h3>
-      <p align="center"><b>Responsive E-Ticaret Web Arayüzü</b></p>
-      <p>Dinamik sepet etkileşimleri, ürün filtreleme, üyelik/giriş formları ve duyarlı (responsive) grid mimarisine sahip modern e-ticaret vitrini.</p>
+      <p align="center"><b>Responsive E-Ticaret Web Arayüzü & Sepet Mimarisi</b></p>
+      <p>Dinamik sepet etkileşimleri, ürün filtreleme, üyelik formları ve duyarlı (responsive) grid mimarisine sahip modern e-ticaret vitrini.</p>
       <p><code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <a href="https://mertcinbar.github.io/WebUygulama/"><b>Canlı Demo 🌐</b></a></p>
     </td>
   </tr>
