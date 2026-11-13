@@ -1,7 +1,7 @@
 <div align="center">
 
 # Merhaba, Ben Mert Çinbar 👋
-### Bilgisayar Mühendisliği Öğrencisi | MSKÜ (3. Sınıf)
+### Bilişim Sistemleri Mühendisliği Öğrencisi | MSKÜ (3. Sınıf)
 ### Full-Stack, Siber Güvenlik & Sistem Geliştiricisi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mert_Çinbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-cinbar/)
@@ -18,11 +18,11 @@
 
 ### 👨‍💻 Hakkımda
 
-Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yazılım mimarileri, sistem seviyesi programlama, kurumsal otomasyon sistemleri ve siber güvenlik alanlarında uçtan uca projeler geliştiriyorum.
+Muğla Sıtkı Koçman Üniversitesi Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Yazılım mimarileri, sistem ve ağ seviyesi programlama, kurumsal otomasyon sistemleri ve siber güvenlik alanlarında uçtan uca projeler geliştiriyorum.
 
-- 🛡️ **Güncel Odak:** LLM destekli otonom oltalama simülasyonu ve çalışan güvenlik farkındalık platformu (**PhishAware**).
-- 🏗️ **Mimari Yaklaşım:** N-Katmanlı mimari (N-Tier Architecture), OOP prensipleri (SOLID), modüler C mimarisi ve RESTful servis tasarımı.
-- 💡 **Sürekli Öğrenme:** Bulut mimarileri, kurumsal güvenlik protokolleri (SMTP/SPF/DKIM/DMARC) ve modern web teknolojileri.
+- 🛡️ **Güncel Odak:** Otonom ağ saldırı tespit sistemleri (**SentinelCore**) ve oyunlaştırılmış kurumsal oltalama simülasyon platformları (**PhishAware**).
+- 🏗️ **Mimari Yaklaşım:** N-Katmanlı mimari (N-Tier Architecture), OOP prensipleri (SOLID), modüler C mimarisi, gerçek zamanlı WebSocket akışları ve RESTful servis tasarımı.
+- 💡 **Sürekli Öğrenme:** Ağ güvenliği (Raw Sockets, Paket Analizi, IDS), kurumsal güvenlik protokolleri (SMTP/TLS, Quishing) ve modern Full-Stack web mimarileri.
 - 🎯 **Hedef:** Yüksek performanslı, güvenli ve ölçeklenebilir yazılım çözümleri üretmek.
 
 ---
@@ -34,9 +34,9 @@ Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğre
 | Kategori | Teknolojiler & Araçlar |
 | :--- | :--- |
 | **Diller** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frameworks & Web** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=windows&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Veritabanı & Altyapı** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux / Bash](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Mühendislik & Güvenlik** | OOP (Object Oriented Programming), N-Tier Architecture, Application Security, Phishing Vectors, RESTful APIs, Clean Code |
+| **Frameworks & Web** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=windows&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Veritabanı & Altyapı** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux / Bash](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Mühendislik & Güvenlik** | Network IDS & Raw Sockets, OOP & N-Tier Architecture, Phishing & Quishing Simulation, RESTful APIs, Clean Code |
 
 </div>
 
@@ -50,13 +50,13 @@ Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğre
       <h3 align="center"><a href="https://github.com/MertCinbar/SentinelCore">🛡️ SentinelCore</a></h3>
       <p align="center"><b>Otonom Ağ Trafiği & Saldırı Tespit Sistemi (IDS / SOC)</b></p>
       <p>Cisco Packet Tracer teorisini canlı ağda çalıştıran; ham TCP/IP paketlerini ayrıştırıp SYN Flood, Port Taraması ve anomalileri WebSockets ile canlı kokpitte tespit eden IDS.</p>
-      <p><code>Python</code> • <code>FastAPI</code> • <code>Raw Sockets</code> • <code>WebSockets</code> • <code>Packet Tracer</code></p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>Raw Sockets</code> • <code>WebSockets</code> • <code>PCAP Engine</code></p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/MertCinbar/PhishAware">🎯 PhishAware</a></h3>
-      <p align="center"><b>Otonom Oltalama Simülasyonu & Güvenlik Platformu</b></p>
-      <p>Kurum içi siber farkındalık tatbikatlarını departman bazlı senaryolarla otomatize eden, gerçekçi oltalama vektörleri ve analitik raporlama sunan tam kapsamlı B2B SaaS.</p>
-      <p><code>FastAPI</code> • <code>Python</code> • <code>SQLite</code> • <code>TailwindCSS</code> • <code>Chart.js</code></p>
+      <p align="center"><b>Otonom Oltalama Simülasyonu & 3D Siber Eğitim Platformu</b></p>
+      <p>Kurum içi siber farkındalık tatbikatlarını çok kanallı (SMTP, Telegram Bot, Quishing QR) senaryolar ve 3D Sanal Ofis oyunuyla otomatize eden B2B SaaS platformu.</p>
+      <p><code>FastAPI</code> • <code>Python</code> • <code>SQLite</code> • <code>3D WebGL/Canvas</code> • <code>Telegram API</code></p>
     </td>
   </tr>
   <tr>
@@ -69,8 +69,8 @@ Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğre
     <td width="50%">
       <h3 align="center"><a href="https://github.com/MertCinbar/C-Proje">☕ C-Proje (Kafe Otomasyonu)</a></h3>
       <p align="center"><b>Modüler C ile Masa & Adisyon Yönetim Sistemi</b></p>
-      <p>Dinamik adisyon oluşturma, masa aktarma, sipariş revizyonu ve kasa kapanış hesaplamalarını saf C dili ve modüler dosya yapısıyla çözen terminal tabanlı POS yazılımı.</p>
-      <p><code>C</code> • <code>Modular Programming</code> • <code>POS Management</code> • <code>CLI</code></p>
+      <p>Dinamik adisyon oluşturma, kademeli saatlik ücretlendirme, indirim hesaplama ve kalıcı dosya loglamasını saf C diliyle çözen terminal tabanlı POS yazılımı.</p>
+      <p><code>C</code> • <code>Modular Programming</code> • <code>File I/O</code> • <code>CLI</code></p>
     </td>
   </tr>
   <tr>
